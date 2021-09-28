@@ -1,6 +1,6 @@
-# Hello!
+# Hello, world!
 
-- 👋 <strong>Hi, I’m Sergio!</strong>
+- 👋 <strong>I’m Sergio!</strong>
 - 👀 <strong>I’m interested in</strong>:<br> Educational Techonology and web applications for digital learning.
 - 👨‍🎓 Sou Pedagogo, pós-graduado em Neuropsicopedagogia<br> e mestre em Análise do Comportamento. <br>
      Tenho formação complementar em Tecnologias Educacionais, Desenvolvimento WEB, <br>
