@@ -2,9 +2,9 @@
 
 - 👋 <strong>Hi, I’m Sergio!</strong>
 - 👀 <strong>I’m interested in</strong>:<br> Educational Techonology and web applications for digital learning.
-- 👨‍🎓 Sou Pedagogo, pós-graduado em Neuropsicopedagogia e mestre em Análise do Comportamento. <br>
-     Tenho formação complementar em Tecnologias Educacionais, Power BI, Web Design, <br> 
-     Desenvolvimento Cognitivo, e Criação de Aplicativos Educacionais.
+- 👨‍🎓 Sou Pedagogo, pós-graduado em Neuropsicopedagogia<br> e mestre em Análise do Comportamento. <br>
+     Tenho formação complementar em Tecnologias Educacionais, Desenvolvimento WEB, <br>
+     Power BI, Desenvolvimento Cognitivo, e Criação de Aplicativos Educacionais.
 - 👷 <strong>Possuo experiência em</strong>: <br> 
      | docência, gestão e coordenação pedagógica, <br>
      | criação de ferramentas e tecnologias educacionais, <br>
