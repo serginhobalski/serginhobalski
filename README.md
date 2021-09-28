@@ -10,7 +10,7 @@
      | criação de ferramentas e tecnologias educacionais, <br>
      | educação especial, inclusão, rotinas administrativas, <br>
      | criação e gerenciamento de plataformas e-commerce,<br> plataformas educacionais e websites.
-- 🌱 <strong>Tecnologias</strong>: <br>
+- 🌱 <strong>Tecnologias que uso e estudo</strong>: <br>
      | Node.js, React, Angular, Ionic <br>
      | WordPress, Bootstrap, Elementor | HTML+CSS <br>
      | JavaScript, TypeScript, Python <br>
