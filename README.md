@@ -1,21 +1,26 @@
 # Hello, world!
 
 - 👋 <strong>I’m Sergio!</strong>
-- 👀 <strong>I’m interested in</strong>:<br> Educational Techonology and web applications for digital learning.
-- 👨‍🎓 Sou Pedagogo, pós-graduado em Neuropsicopedagogia<br> e mestre em Análise do Comportamento. <br>
-     Tenho formação complementar em Tecnologias Educacionais, Desenvolvimento WEB, <br>
-     Power BI, Desenvolvimento Cognitivo, e Criação de Aplicativos Educacionais.
-- 👷 <strong>Possuo experiência em</strong>: <br> 
-     | docência, gestão e coordenação pedagógica, <br>
-     | criação de ferramentas e tecnologias educacionais, <br>
-     | educação especial, inclusão, rotinas administrativas, <br>
-     | criação e gerenciamento de plataformas e-commerce,<br> plataformas educacionais e websites.
-- 🌱 <strong>Tecnologias que uso e estudo</strong>: <br>
-     | Node.js, React, Angular, Ionic <br>
-     | WordPress, Bootstrap, Elementor | HTML+CSS <br>
-     | JavaScript, TypeScript, Python <br>
-     | PHP, MySQL e buscando +... 
-- 📫 <strong>Contato</strong>: <br>
+- 👀 I am an educator, educational manager and web developer with over 15 years of experience. <br>
+I have always been interested in Technology and Education, and the use of educational technologies to help people overcome their difficulties.<br> 
+In addition to acting as pedagogical coordinator, I also develop websites and educational platforms. <br>
+
+.
+- 👨‍🎓 I have a degree in pedagogy, <br>
+     a specialization in neuropsychopedagogy <br>
+     and a master's degree in Behavior Analysis. <br>
+     I also took several free courses in the area of<br> 
+     web development and programming with <br>
+     MySQL, MongoDB, PHP, Python, JavaScript, HTML and CSS.<br>
+     
+- 👷 <strong>I have experience in</strong>: <br> 
+     | teaching, management and pedagogical coordination, <br>
+     | creation of educational tools and technologies, <br>
+     | special education, inclusion, administrative routines, <br>
+     | creation and management of e-commerce platforms,<br> 
+       educational platforms and websites.
+
+- 📫 <strong>Contact</strong>: <br>
      | 📧mailto:serginhobalski@gmail.com | <br>
      | 📧mailto:contato@estimulardigital.com <br>
      | ➡️Instagram: https://www.instagram.com/serginhobalski/ <br>
