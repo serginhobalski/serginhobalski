@@ -5,7 +5,6 @@
 I have always been interested in Technology and Education, and the use of educational technologies to help people overcome their difficulties.<br> 
 In addition to acting as pedagogical coordinator, I also develop websites and educational platforms. <br>
 
-.
 - 👨‍🎓 I have a degree in pedagogy, <br>
      a specialization in neuropsychopedagogy <br>
      and a master's degree in Behavior Analysis. <br>
