@@ -15,7 +15,7 @@
   <img align="center" alt="Sof-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sof-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Sof-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="right" alt="Sof-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/28549683?s=96&v=4">
+  <img align="right" alt="Sof-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/E6MPQ2NXMAcllmD.jpg">
 </div>
   
   ##
