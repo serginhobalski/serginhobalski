@@ -1,4 +1,5 @@
-## Olá! eu sou o Sergio Obalski Filho, gestor educacional e desenvolvedor web!
+## Olá! Eu sou o Sergio Obalski Filho, gestor educacional e desenvolvedor web!
+## Hi! I´m Sergio Obalski Filho, educational manager and web developer!
 <div align="center">
   <a href="https://github.com/serginhobalski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serginhobalski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
