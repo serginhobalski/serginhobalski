@@ -1,5 +1,7 @@
-## Olá! Eu sou o Sergio Obalski Filho, gestor educacional e desenvolvedor web!
-## Hi! I´m Sergio Obalski Filho, educational manager and web developer!
+## Olá! Eu sou o Sergio Obalski Filho, e sou apaixonado por Educação e Tecnologia!
+# Possuo Licenciatura Plena em Pedagogia (UFPA), especialização em Neuropsicopedagogia (FAVENI) e Mestrado em Análise do Comportamento (UFPA).
+# Minha atuação integra educação, comportamento e tecnologia. Tenho experiência em coordenação pedagógica, educação infantil, ensino fundamental, educação a distância, formação de professores, instrução de aprendizes, produção de aulas online e desenvolvimento de plataformas educacionais.
+# Meu trabalho busca unir ciência, sensibilidade e prática para apoiar processos educativos mais claros, humanos e eficazes.
 <div align="center">
   <a href="https://github.com/serginhobalski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serginhobalski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
